@@ -1,4 +1,8 @@
 This is to check on GitHub
 This is second line to check from dev2
 This is thrid line from dev2
+<<<<<<< HEAD
 This line also fresh one but created by dev2
+=======
+This is today frsh line to check pushing issues
+>>>>>>> 22b82fc53dfe22548226c8aff897ac9967f72c48
