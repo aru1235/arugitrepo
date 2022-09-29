@@ -1,2 +1,6 @@
 this is done for test branch2
+<<<<<<< HEAD
 This is dev2, added this 
+=======
+This is added to see merge activity
+>>>>>>> test5
